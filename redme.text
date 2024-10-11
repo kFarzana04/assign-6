@@ -1,0 +1,31 @@
+#Peddy - Pet Adoption website
+
+Peddy is a pet adoption platform that connects potential adopters with pets in need of loving homes. The website allows users to browse through available pets, view detailed information, and filter by categories. Users can also "like" pets and access special deals.
+
+#Features
+
+1. Pet listing : View available pets with details information.
+2. Filter by catagories : Filter by catagories such as cats, dogs and other animals.
+3. Pet details Modal : View additional pet details in modal.
+4. Like a Pet : Users can "like" a pet, and the liked pets will be displayed in a separate section.
+5. Best Deals : Display best adoption deals for featured pets.
+6. Responsive Design :  Fully responsive for all device sizes.
+
+#Technologies Used
+
+1. HTML5 : For the structure of the website.
+2. Tailwind CSS : For the design and layout, along with custom styles.
+3. DaisyUI : For additional UI components.
+4. FontAwesome : For social media icons and various UI icons.
+5. JavaScript (ES6) :  For dynamic content loading, sorting, and event handling.
+6. API Integration : Fetches pet data and categories from a mock API.
+
+## Prerequisites
+- Any modern web browser (Google Chrome, Mozilla Firefox, etc.)
+- [Node.js](https://nodejs.org/en/)
+
+## Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/ProgrammingHero1/B10A6-Assess-Your-Asynchronous-JS-and-ES6-skills
